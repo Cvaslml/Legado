@@ -1,3 +1,3 @@
 # 遺產
 
-![Diagram](diagram.png "Diagrama")
+![Diagram](Caso2/diagram.png "Diagrama")
